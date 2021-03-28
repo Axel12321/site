@@ -16,5 +16,7 @@ events:
   - mediaspace
   - github-contributions
   - kickstarter-pebble
+  - shell
+  - git2
 ---
 
