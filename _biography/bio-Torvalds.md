@@ -1,4 +1,4 @@
-##Linus Torvalds
+## Linus Torvalds
 #### Σύντομη βιογραφία του Linus Benedict TorvaldPermalink
 Ο Linus Benedict Torvalds είναι ο δημιουργός του πυρήνα των Linux αλλά και του Git.
 
