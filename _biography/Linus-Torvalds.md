@@ -1,7 +1,7 @@
 ---
 author: axel12321
 title: "Linus Torvalds"
-image_url: /images/Torvalds.jpg
+image_url: /images/Torvalds (1).jpg
 caption: "Ο Linus Torvalds είναι ο δημιουργός του πυρήνα του Linux αλλά και του Git ο οποίος προώθησε κυρίως την έννοια αλλά και την λειτουργία του open-source λογισμικού"
 categories:
   - biography
