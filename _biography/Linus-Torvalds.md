@@ -19,6 +19,4 @@ gallery:
     caption: "Linus Torvalds, o δημιουργός του πυρήνα των Linux αλλά και του Git. "
 ---
 
-{% include bio-Torvalds.md %}
-
-{% include slides.html %}
+{% include extras/bio-Torvalds.md %}
