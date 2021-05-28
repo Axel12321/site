@@ -14,9 +14,9 @@
 	path = _gallery
 	url = git@github.com:Axel12321/_gallery.git
 	branch = master
-[submodule "images"]
-	path = images
-	url = git@github.com:Axel12321/images.git
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/Axel12321/extras
+	url = https://github.com/Axel12321/extras.git
+[submodule "images"]
+	path = images
+	url = https://github.com/Axel12321/images.git
